@@ -16,8 +16,7 @@ git reset --hard xxxxx			回滚到指定提交版本
 git branch					显示目前分支
 git branch xxx				创建新的分支(xxx分支名)
 git checkout xxx				切换到xxx分支
-------------------------合并分支需要在主分支
-git merge  xxx				将当前xxx分支合并到当前分支
+git merge xxx				将分支xxx合并到当前分支
 
 
 

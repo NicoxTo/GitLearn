@@ -7,6 +7,7 @@ git config --global user.email "xxxx"		配置邮箱
 git config --global user.name "xxxx"		配置用户名
 git commit -m 'v1'				生成版本v1(v1是提交描述)
 git log 					版本记录
+git reflog					所有版本记录
 q					推出日志查看
 git reset --hard xxxxx			回滚到指定提交版本
 

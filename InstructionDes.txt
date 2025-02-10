@@ -1,6 +1,8 @@
+Git三大区域  工作区  暂存区  版本库
 git init					初始化  
 git status					检测文件状态
-git add xxxxxxx				添加管理文件
+git add xxxxxxx				添加文件到暂存区
+git reset HEAD xxxxxx			将文件移出暂存区
 git add .					添加所有未管理文件
 ------------------------------------生成版本之前一般需要配置个人信息
 git config --global user.email "xxxx"		配置邮箱

@@ -1,10 +1,14 @@
-git init			初始化  
-git status			检测文件状态
-git add xxxxxxx		添加管理文件
-git add .			添加所有未管理文件
-git commit -m 'v1'		生成版本v1(v1是提交描述)
-git log 			版本记录
-q			推出日志查看
+git init					初始化  
+git status					检测文件状态
+git add xxxxxxx				添加管理文件
+git add .					添加所有未管理文件
+------------------------------------生成版本之前一般需要配置个人信息
+git config --global user.email "xxxx"		配置邮箱
+git config --global user.name "xxxx"		配置用户名
+git commit -m 'v1'				生成版本v1(v1是提交描述)
+git log 					版本记录
+q					推出日志查看
+
 
 
 

@@ -1,0 +1,4 @@
+git init			初始化  
+git status			检测文件状态
+git add xxxxxxx		添加管理文件
+git add .			添加所有未管理文件

@@ -4,7 +4,7 @@ git add xxxxxxx		添加管理文件
 git add .			添加所有未管理文件
 git commit -m 'v1'		生成版本v1(v1是提交描述)
 git log 			版本记录
-
+q			推出日志查看
 
 
 

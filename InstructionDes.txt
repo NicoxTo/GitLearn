@@ -12,6 +12,7 @@ git log 					版本记录
 git reflog					所有版本记录
 q					推出日志查看
 git reset --hard xxxxx			回滚到指定提交版本
+--------创建分支会将当前所有代码复制一份到新的分支，可以在新的分支上修改不影响其他分支
 git branch					显示目前分支
 git branch xxx				创建新的分支(xxx分支名)
 git checkout xxx				切换到xxx分支

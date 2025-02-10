@@ -17,6 +17,7 @@ git branch					显示目前分支
 git branch xxx				创建新的分支(xxx分支名)
 git checkout xxx				切换到xxx分支
 git merge xxx				将分支xxx合并到当前分支
+git branch -d xxx				删除xxx分支
 
 
 

@@ -23,6 +23,9 @@ git push -u xxx master	 				将master分支推到远程仓库xxx
 git clone https://github.com/NicoxTo/GitLearn.git			克隆代码
 git fetch https://github.com/NicoxTo/GitLearn.git xxx		将xxx分支代码拉到本地版本库
 git merge/rebase https://github.com/NicoxTo/GitLearn.git/xxx		将本地目标远程仓库的xxx分支拉取到工作区
+git tag -a <tag_name> -m "标签描述信息"				打包一个版本
+git push origin <tag_name>					将版本推送到远程仓库
+
 
 
 

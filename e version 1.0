@@ -1,0 +1,214 @@
+[33mcommit b08ff96f0f6565d55e481654498e87a525ff2088[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31mGitLearn/master[m[33m)[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Tue Feb 11 14:46:39 2025 +0800
+
+    退出
+
+[33mcommit 3977dfa787c0f1c8905b6282ec925e74ae017990[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Tue Feb 11 14:40:02 2025 +0800
+
+    添加新增指令
+
+[33mcommit 6e707eb574a6143d4fc445de14bb219d527617a0[m
+Merge: 96982ce fde5d5c
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Tue Feb 11 13:47:36 2025 +0800
+
+    合并
+
+[33mcommit fde5d5cae878b022ff6c3c40781736ae0fe83a88[m[33m ([m[1;31mGitLearn/dev[m[33m, [m[1;32mdev[m[33m)[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Tue Feb 11 13:45:27 2025 +0800
+
+    新代码
+
+[33mcommit 96982ced02fef0bebcdc3efe99d547dff84df59d[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Tue Feb 11 13:27:26 2025 +0800
+
+    测试
+
+[33mcommit 4c641ba6a77963cb29c18756b2a999a16ec95000[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Tue Feb 11 13:23:09 2025 +0800
+
+    添加克隆命令说明
+
+[33mcommit 7a5dbb0c9c5143e4dcaea2d27ec848798754a6ed[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Tue Feb 11 13:12:10 2025 +0800
+
+    添加推送远程仓库指令说明
+
+[33mcommit 487c9e21abab5d5ab9ddf2d42e7ba52994376956[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Mon Feb 10 15:32:57 2025 +0800
+
+    删除分支指令添加
+
+[33mcommit fc4ae12cee07b258657fec600e8e24346d64265c[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Mon Feb 10 15:27:14 2025 +0800
+
+    添加合并分支指令
+
+[33mcommit 15789f61ea7337921e196cdb881c3811e4f7238a[m
+Merge: f9a6302 1cf7038
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Mon Feb 10 15:23:15 2025 +0800
+
+    解决问题
+
+[33mcommit 1cf70383d4a9833005f53cb1392cbe1fa00fac41[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Mon Feb 10 15:19:25 2025 +0800
+
+    开发新功能
+
+[33mcommit f9a630245245d8acc592f9bcfdc7aca26541606c[m
+Merge: cbbe696 8976fa5
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Mon Feb 10 15:18:13 2025 +0800
+
+    Merge branch 'bug'
+
+[33mcommit 8976fa52aba3bbcd4eacc14966ee12a8f9b5ea59[m[33m ([m[1;31mGitLearn/bug[m[33m, [m[1;32mbug[m[33m)[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Mon Feb 10 15:17:53 2025 +0800
+
+    修改bug
+
+[33mcommit cbbe6961e0ddb7c1b4e99fe3c8223f98026ea0fe[m
+Merge: 49ee7b3 330fcd0
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Mon Feb 10 15:15:28 2025 +0800
+
+    Merge branch 'dev'
+
+[33mcommit 49ee7b3e5a25fe638a731008eeab2732a2f6faa8[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Mon Feb 10 13:28:55 2025 +0800
+
+    添加分支合并指令
+
+[33mcommit b7db5b16b7989dd70212e6299f35db6cd0233cef[m
+Merge: cc8d9fa 8051364
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Mon Feb 10 13:23:58 2025 +0800
+
+    Merge branch 'bug'
+
+[33mcommit cc8d9fa8bf23c9a9f5465297aa163bb432c41b9f[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Mon Feb 10 13:22:49 2025 +0800
+
+    添加分支解释
+
+[33mcommit 805136442c1e4d0d1c5ddfdcddda08c0542b294b[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Mon Feb 10 13:20:38 2025 +0800
+
+    bug分支修复bug
+
+[33mcommit 9d320200bc1faeb07ceebc21c2db84d9d7beaecc[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Mon Feb 10 13:19:05 2025 +0800
+
+    提交
+
+[33mcommit d8c2953427928c709febe93db9fe3290cb4aa647[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Mon Feb 10 13:17:25 2025 +0800
+
+    修改bug
+
+[33mcommit 330fcd0506877c8e0466a0ff4b5a08d7ffced4b6[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Mon Feb 10 13:15:13 2025 +0800
+
+    分支添加
+
+[33mcommit 1f89f4494394761a47bc0e6ddc961518a8497410[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Mon Feb 10 13:13:36 2025 +0800
+
+    分支开发
+
+[33mcommit 72188708f7f9896abfd88629c393014e36af05b7[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Mon Feb 10 13:11:51 2025 +0800
+
+    添加切换分支指令
+
+[33mcommit 61550fb9bb1a4151e18e23737ff5364f36e9f993[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Mon Feb 10 13:10:07 2025 +0800
+
+    添加创建分支指令
+
+[33mcommit 150a5bc1d6120afdbbe7f5643efd5c4ab8d9222d[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Mon Feb 10 13:08:54 2025 +0800
+
+    添加分支显示指令
+
+[33mcommit b7de3c6ae6410a3f3875c019d50bfb2154d5262f[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Mon Feb 10 12:51:46 2025 +0800
+
+    梳理主分支
+
+[33mcommit 04ff1796b0ed3df124872da82514e539ea95b34e[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Mon Feb 10 12:40:03 2025 +0800
+
+    添加移出暂存区指令说明
+
+[33mcommit 9d78225fe6498c59888ac0763b7b96327caf2918[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Mon Feb 10 12:27:53 2025 +0800
+
+    添加显示所有版本记录指令
+
+[33mcommit 6fb457b74fdfd969994c47550adfa5eaa473f9d5[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Mon Feb 10 12:21:47 2025 +0800
+
+    添加回滚指令
+
+[33mcommit 6011900629cf4a55b25d34cdc047d6553d4d0c74[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Mon Feb 10 11:54:45 2025 +0800
+
+    添加配置个人信息
+
+[33mcommit a088ac2c4f530967084674c50cd0302818cba4e4[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Mon Feb 10 11:48:13 2025 +0800
+
+    添加退出日志查看
+
+[33mcommit 514e028960d4b01421000b9dd2bd3614ab6e9271[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Mon Feb 10 11:31:19 2025 +0800
+
+    提交v1是提交描述
+
+[33mcommit 185d687108a8ae1f2b4fea51e32969501ddcb296[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Mon Feb 10 11:29:20 2025 +0800
+
+    v2
+
+[33mcommit 2e76bd190de000aba8f8f3c1e2176a3a97854bed[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Mon Feb 10 11:27:51 2025 +0800
+
+    v2
+
+[33mcommit 7924fe4b93ded03bc6328943974af54ee944fdb7[m
+Author: xiangxiaoning <2259798607@qq.com>
+Date:   Mon Feb 10 11:25:30 2025 +0800
+
+    v1

@@ -1,23 +1,25 @@
 Git三大区域  工作区  暂存区  版本库
-git init					初始化  
-git status					检测文件状态
-git add xxxxxxx				添加文件到暂存区
-git reset HEAD xxxxxx			将文件移出暂存区
-git add .					添加所有未管理文件
+git init							初始化  
+git status							检测文件状态
+git add xxxxxxx						添加文件到暂存区
+git reset HEAD xxxxxx					将文件移出暂存区
+git add .							添加所有未管理文件
 ------------------------------------生成版本之前一般需要配置个人信息
-git config --global user.email "xxxx"		配置邮箱
-git config --global user.name "xxxx"		配置用户名
-git commit -m 'v1'				生成版本v1(v1是提交描述)
-git log 					版本记录
-git reflog					所有版本记录
-q					推出日志查看
-git reset --hard xxxxx			回滚到指定提交版本
+git config --global user.email "xxxx"				配置邮箱
+git config --global user.name "xxxx"				配置用户名
+git commit -m 'v1'						生成版本v1(v1是提交描述)
+git log 							版本记录
+git reflog							所有版本记录
+q							推出日志查看
+git reset --hard xxxxx					回滚到指定提交版本
 --------创建分支会将当前所有代码复制一份到新的分支，可以在新的分支上修改不影响其他分支
-git branch					显示目前分支
-git branch xxx				创建新的分支(xxx分支名)
-git checkout xxx				切换到xxx分支
-git merge xxx				将分支xxx合并到当前分支
-git branch -d xxx				删除xxx分支
+git branch							显示目前分支
+git branch xxx						创建新的分支(xxx分支名)
+git checkout xxx						切换到xxx分支
+git merge xxx						将分支xxx合并到当前分支
+git branch -d xxx						删除xxx分支
+git remote add xxx https://github.com/NicoxTo/GitLearn.git		给远程仓库起个别名xxx
+git push -u xxx master	 				将master分支推到远程仓库xxx
 
 
 

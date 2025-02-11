@@ -21,6 +21,8 @@ git branch -d xxx						删除xxx分支
 git remote add xxx https://github.com/NicoxTo/GitLearn.git		给远程仓库起个别名xxx
 git push -u xxx master	 				将master分支推到远程仓库xxx
 git clone https://github.com/NicoxTo/GitLearn.git			克隆代码
+git fetch https://github.com/NicoxTo/GitLearn.git xxx		将xxx分支代码拉到本地版本库
+git merge/rebase https://github.com/NicoxTo/GitLearn.git/xxx		将本地目标远程仓库的xxx分支拉取到工作区
 
 
 

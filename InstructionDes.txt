@@ -20,7 +20,7 @@ git merge xxx						将分支xxx合并到当前分支
 git branch -d xxx						删除xxx分支
 git remote add xxx https://github.com/NicoxTo/GitLearn.git		给远程仓库起个别名xxx
 git push -u xxx master	 				将master分支推到远程仓库xxx
-
+git clone https://github.com/NicoxTo/GitLearn.git			克隆代码
 
 
 
